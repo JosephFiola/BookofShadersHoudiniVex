@@ -5,6 +5,8 @@
 
 With the intention of eventually porting my [Saturday Shaders](https://github.com/JosephFiola/SaturdayShaders) project over to [Houdini Vex](https://www.sidefx.com/docs/houdini15.5/vex/_index) I've started to go through the [The Book of Shaders](http://thebookofshaders.com) examples in order to learn how.
 
+_While Houdini does support GLSL code to render shaders into the viewport, I have not implemented this yet. For now these examples are only visible in the render view using the Ray Tracing render engine._
+
 ---
 ###Chapters completed so far
 **[Chapter 3 - Uniforms](http://thebookofshaders.com/03/)**
